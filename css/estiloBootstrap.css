@@ -1,0 +1,37 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background-color:#2c2f33;
+	color: white;
+	align-content: center;
+}
+
+.card{
+	background-color: #7289da;
+  color: white;
+  font-size: small;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #7289da;
+  border-width: medium;	
+  border-color: #fff;
+}
+
+.btn-primary:hover {
+  color: #fff;
+  background-color: #0069d9;
+  border-color: #0062cc;
+}
+
+.card-img a :hover {
+	color: white;
+	text-decoration: none;
+}
+
+.descriptionText {
+  font-size: 150%;
+  text-align: initial;
+}
